@@ -16,3 +16,5 @@ if sel==1:
 elif sel==2:
         ob2=ob.div(num)
         print(ob2)
+
+print("thapa")
